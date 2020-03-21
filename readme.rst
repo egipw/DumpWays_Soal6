@@ -1,7 +1,19 @@
-username for admin
+username for login
 
 email : admin
 password : admin
+
+aplikasi dibuat dengan framework CodeIginter
+software yang di butuhkan adalah framework CodeIginter, textsublime, xampp, dan web browser
+
+untuk menjalankan aplikasi jalankan apache dan phpmyadmin pada xampp
+kemudian buka web browser dengan url localhost/phpmyadmin
+inport database pada folder db
+kemudian pindahkan project ke folder htdocts xampp
+config base url dan database 
+
+buka web browser dan masukkan url localhost/ (folder pentimpananan project sesuai configurasi base url)
+
 
 ###################
 What is CodeIgniter
